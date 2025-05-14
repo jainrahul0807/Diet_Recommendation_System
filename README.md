@@ -1,5 +1,7 @@
 # Diet Recommendation System
 
+**Its a dummy project**
+
 ## Overview
 The **Diet Recommendation System** leverages **Gemini API** and **nutritional data analysis** to provide personalized diet plans based on user attributes. It takes inputs like age, gender, weight, height, and activity level to compute **daily calorie intake** and **optimal macronutrient distribution**.
 
